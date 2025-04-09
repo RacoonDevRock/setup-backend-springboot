@@ -1,0 +1,3 @@
+[submodule "template-service"]
+	path = template-service
+	url = https://github.com/RacoonDevRock/template-service.git
