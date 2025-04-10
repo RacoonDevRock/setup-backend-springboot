@@ -1,6 +1,6 @@
 # 🧠 Big Picture Eficientis 3.0
 
-![cdc](./img/bigpicture_eficientis.png)
+![Big Picture Eficientis 3.0](./img/bigpicture_eficientis.png)
 
 ## Descripcion
 
